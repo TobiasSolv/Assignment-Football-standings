@@ -64,8 +64,11 @@ If the setup.csv file does not exist or can't be accessed, it prints an error me
  If the file does not exist or can't acces it, it prints an error message and then countinues to the next file.
  
  Then it sorts the teams based on their points and goal difference.
+ 
  It then prints dashes after that it prints the headers.
+ 
  Then loops through the team and prints the data for each team.
+ 
  And lastly prits dashes.
  
  
