@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vx1NReZsFX6QJ/QlH+TjmcN2DRF3712IKo4K3KGYnHK7KY93mvRa3TJtn/xmFhYDuB4urvNe9hFuoA/uvpr2Hw==",
+  "success": true,
+  "projectFilePath": "/Users/tobiassolvtofte/Desktop/Programmer/C#/Assignment Football standings/Assignment Football standings/Assignment Football standings.csproj",
+  "expectedPackageFiles": [
+    "/Users/tobiassolvtofte/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

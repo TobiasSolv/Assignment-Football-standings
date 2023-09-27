@@ -60,7 +60,8 @@ public class run
 
     {
         Boolean istrue = true;
-        while (istrue) {
+        while (istrue)
+        {
             Console.WriteLine("\n1: all rounds \n" +
                 "2: setup \n" +
                 "3: teams: \n" +
@@ -80,7 +81,7 @@ public class run
                     break;
                 case "4":
                     istrue = false;
-                    break;  
+                    break;
                 default:
                     Console.WriteLine("Invalid input. Please enter a valid option (1, 2, 3 or 4).");
                     break;
@@ -104,14 +105,14 @@ public class run
             using (var readSetup = new StreamReader(setupFile))
             using (var csv = new CsvReader(readSetup, config))
             {
-                
 
-               
+
+
                 var setups = csv.GetRecords<setup>().ToList();
 
                 Console.WriteLine("Read data from CSV file successfully.");
 
-                
+
                 Console.WriteLine("League\t\tPositions to Promote to Champions League\tEurope League\tConference League\tUpper League\tLower League");
                 foreach (var setup in setups)
                 {
@@ -139,12 +140,12 @@ public class run
             using (var readTeam = new StreamReader(teamsFile))
             using (var csv = new CsvReader(readTeam, config))
             {
-                
+
                 var teams = csv.GetRecords<teams1>().ToList();
 
                 Console.WriteLine("Read data from CSV file successfully.");
 
-                
+
                 Console.WriteLine("Abbreviation\tFull club name\t\t\tSpecial ranking");
                 foreach (var team in teams)
                 {
@@ -215,15 +216,12 @@ public class run
 
             Console.WriteLine(new string('-', 98));
             Console.WriteLine("Position\tTeam\t\t\tM\tW\tD\tL\tGoals\t\tDif\tPt");
-                for (int i = 0; i < teams.Count; i++)
-                {
-                    team team = teams[i];
-                    Console.WriteLine($"{i + 1,-8}\t{team.teamName,-20}\t{team.MatchesPlayed,-4}\t{team.wins,-4}\t{team.draws,-4}\t{team.losses,-4}\t{team.goals,-8}\t{team.difference,-4}\t{team.points,-4}");
-                }
+            for (int i = 0; i < teams.Count; i++)
+            {
+                team team = teams[i];
+                Console.WriteLine($"{i + 1,-8}\t{team.teamName,-20}\t{team.MatchesPlayed,-4}\t{team.wins,-4}\t{team.draws,-4}\t{team.losses,-4}\t{team.goals,-8}\t{team.difference,-4}\t{team.points,-4}");
+            }
             Console.WriteLine(new string('-', 98));
         }
     }
-    }
-
-
-
+}

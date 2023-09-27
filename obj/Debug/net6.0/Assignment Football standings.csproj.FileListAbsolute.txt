@@ -1,0 +1,17 @@
+/Users/tobiassolvtofte/Desktop/Programmer/C#/Assignment Football standings/Assignment Football standings/bin/Debug/net6.0/Assignment Football standings
+/Users/tobiassolvtofte/Desktop/Programmer/C#/Assignment Football standings/Assignment Football standings/bin/Debug/net6.0/Assignment Football standings.deps.json
+/Users/tobiassolvtofte/Desktop/Programmer/C#/Assignment Football standings/Assignment Football standings/bin/Debug/net6.0/Assignment Football standings.runtimeconfig.json
+/Users/tobiassolvtofte/Desktop/Programmer/C#/Assignment Football standings/Assignment Football standings/bin/Debug/net6.0/Assignment Football standings.dll
+/Users/tobiassolvtofte/Desktop/Programmer/C#/Assignment Football standings/Assignment Football standings/bin/Debug/net6.0/Assignment Football standings.pdb
+/Users/tobiassolvtofte/Desktop/Programmer/C#/Assignment Football standings/Assignment Football standings/obj/Debug/net6.0/Assignment Football standings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tobiassolvtofte/Desktop/Programmer/C#/Assignment Football standings/Assignment Football standings/obj/Debug/net6.0/Assignment Football standings.AssemblyInfoInputs.cache
+/Users/tobiassolvtofte/Desktop/Programmer/C#/Assignment Football standings/Assignment Football standings/obj/Debug/net6.0/Assignment Football standings.AssemblyInfo.cs
+/Users/tobiassolvtofte/Desktop/Programmer/C#/Assignment Football standings/Assignment Football standings/obj/Debug/net6.0/Assignment Football standings.csproj.CoreCompileInputs.cache
+/Users/tobiassolvtofte/Desktop/Programmer/C#/Assignment Football standings/Assignment Football standings/obj/Debug/net6.0/Assignment Football standings.dll
+/Users/tobiassolvtofte/Desktop/Programmer/C#/Assignment Football standings/Assignment Football standings/obj/Debug/net6.0/refint/Assignment Football standings.dll
+/Users/tobiassolvtofte/Desktop/Programmer/C#/Assignment Football standings/Assignment Football standings/obj/Debug/net6.0/Assignment Football standings.pdb
+/Users/tobiassolvtofte/Desktop/Programmer/C#/Assignment Football standings/Assignment Football standings/obj/Debug/net6.0/Assignment Football standings.genruntimeconfig.cache
+/Users/tobiassolvtofte/Desktop/Programmer/C#/Assignment Football standings/Assignment Football standings/obj/Debug/net6.0/ref/Assignment Football standings.dll
+/Users/tobiassolvtofte/Desktop/Programmer/C#/Assignment Football standings/Assignment Football standings/bin/Debug/net6.0/CsvHelper.dll
+/Users/tobiassolvtofte/Desktop/Programmer/C#/Assignment Football standings/Assignment Football standings/obj/Debug/net6.0/Assignment Football standings.csproj.AssemblyReference.cache
+/Users/tobiassolvtofte/Desktop/Programmer/C#/Assignment Football standings/Assignment Football standings/obj/Debug/net6.0/Assignment Football standings.csproj.CopyComplete
