@@ -87,147 +87,20 @@ Pos
 
  
 
-Team
+Team M W D L GF GA GD P Streak 
 
-M
-
-W
-
-D
-
-L
-
-GF
-
-GA
-
-GD
-
-P
-
-Streak
-
-1
-
-(P)
-
-Lyngby Boldklub (LBK)
-
-1
-
-1
-
-0
-
-0
-
-1
-
-0
-
-1
-
-3
-
-W-
+1 (P) Lyngby Boldklub (LBK) 1 1 0 0 1 0 1 3 W-
 
 -
 
- 
-
-Odense Boldklub (OB)
-
-1
-
-1
-
-0
-
-0
-
-1
-
-0
-
-1
-
-3
-
-W-
-
+11 Odense Boldklub (OB) 1 1 0 0 1 0 1 3 W-
 …
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-11
-
- 
-
-Brøndby IF (BIF)
-
-1
-
-0
-
-0
-
-1
-
-0
-
-1
-
--1
-
-0
-
-L-
+Brøndby IF (BIF) 1 0 0 1 0 1 -1 0 L-
 
 -
 
- 
-
-FC København (FCK)
-
-1
-
-0
-
-0
-
-1
-
-0
-
-1
-
--1
-
-0
-
-L-
-
- 
+FC København (FCK) 1 0 0 1 0 1 -1 0 L-
 
  
 
